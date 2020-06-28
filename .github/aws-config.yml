@@ -36,7 +36,7 @@ aws_stack_name: mystack
 sam_template: sam-template.yml
 
 ################################
-# region for connection to AWS #
+# region for connection to AWS # 
 ################################
 # Default region is: us-west-2
 # if not provided below
